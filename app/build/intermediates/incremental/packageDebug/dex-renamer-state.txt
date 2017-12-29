@@ -1,0 +1,4 @@
+#Fri Dec 29 17:13:39 CST 2017
+base.0=E\:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

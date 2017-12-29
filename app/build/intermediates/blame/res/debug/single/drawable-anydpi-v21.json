@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_time.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_time.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_work.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_work.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_cloud.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_cloud.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_loop.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_loop.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\myvector.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\myvector.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_movie.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_movie.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_palette.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_palette.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_mood.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_mood.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_menu.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_menu.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_drawable.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_drawable.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_laptop.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_laptop.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\heart.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\heart.xml"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_search.xml",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_search.xml"
+    }
+]

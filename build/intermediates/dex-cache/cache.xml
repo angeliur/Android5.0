@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_fe439221de7f380e2bb9aaaa3e295e4b7f6375a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_caa68b105c06e1e030743ec410e90205606f8463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_fe439221de7f380e2bb9aaaa3e295e4b7f6375a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.4.0_2c3bff33c74ae802a79710185417b5f155ebe0b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.4.0_2c3bff33c74ae802a79710185417b5f155ebe0b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_caa68b105c06e1e030743ec410e90205606f8463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_f20d7e1d0ab25cfa2c5864b11b69a51cb9d3ffcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_f20d7e1d0ab25cfa2c5864b11b69a51cb9d3ffcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_153ac9ae051ba2e071dbb4d1c3245e7fffb282b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_228cfc97e48b2a31e21a1939419fd6ec68be1175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_ee2f1a84017784378ca899768bc53d2ff045f1f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_5f09cacb8707c16622a158042717c20a9bc0e178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_00d1532d22e1d23da9f4b626d66a13ae6789563a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_ee2f1a84017784378ca899768bc53d2ff045f1f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_228cfc97e48b2a31e21a1939419fd6ec68be1175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_5f09cacb8707c16622a158042717c20a9bc0e178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_153ac9ae051ba2e071dbb4d1c3245e7fffb282b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ASspace\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\ASspace\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_00d1532d22e1d23da9f4b626d66a13ae6789563a.jar" />
+    </item>
+
+</items>

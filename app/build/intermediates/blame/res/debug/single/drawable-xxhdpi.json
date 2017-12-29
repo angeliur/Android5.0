@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vector_icon_laptop.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_icon_laptop.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vector_icon_menu.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_icon_menu.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\drawer_shadow.9.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vector_icon_time.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_icon_time.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vector_icon_mood.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_icon_mood.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\myvector.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\myvector.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vector_icon_loop.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_icon_loop.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vector_icon_movie.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_icon_movie.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vector_drawable.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_drawable.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vector_icon_palette.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_icon_palette.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\heart.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\heart.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_drawer.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vector_icon_cloud.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_icon_cloud.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vector_icon_search.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_icon_search.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vector_icon_work.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_icon_work.png"
+    },
+    {
+        "merged": "E:\\ASspace\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\ASspace\\02_Android5.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
